@@ -6,6 +6,11 @@
 
 This project documents the development of a Photovoltaic (PV) Solar System designed specifically for educational purposes. The system addresses the gap between theoretical renewable energy education and practical application by creating a hands-on learning platform for students. Built over an intensive 2-week development period, this platform enables students to gain practical experience with PV system design, installation, operation, and performance analysis.
 
+## 🔗 Official Links
+
+- **GitHub Repository**: [https://github.com/HorizonHnk/PV-Solar-System-for-Educational-Purpose.git](https://github.com/HorizonHnk/PV-Solar-System-for-Educational-Purpose.git)
+- **YouTube Channel**: [https://www.youtube.com/playlist?list=PLrZbkNpNVSwyhuOhX-oX0m6nLcVJK6QtB](https://www.youtube.com/playlist?list=PLrZbkNpNVSwyhuOhX-oX0m6nLcVJK6QtB)
+
 The system features monocrystalline solar panels, comprehensive monitoring capabilities through ESP32 microcontrollers, and an interactive web interface for data visualization and analysis. Key components include voltage and current sensors, environmental monitoring, data acquisition systems, and integrated educational content. Testing with student groups confirmed its effectiveness in enhancing understanding of renewable energy concepts and developing technical skills.
 
 ## ⚡ Introduction
